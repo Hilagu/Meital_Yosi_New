@@ -1,0 +1,22 @@
+Parameter,A vs B,A vs C,A vs D,A vs E,B vs C,B vs D,B vs E,C vs D,C vs E,D vs E
+f,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+TVb,ns,***,ns,ns,ns,ns,ns,ns,ns,ns
+MVb,ns,**,*,*,ns,ns,ns,ns,ns,ns
+Penh,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+PAU,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+Rpef,ns,*,ns,ns,*,ns,ns,ns,ns,ns
+Comp,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+PIFb,ns,*,ns,ns,ns,ns,ns,ns,ns,ns
+PEFb,ns,**,ns,*,ns,ns,ns,ns,ns,ns
+Ti,*,ns,ns,ns,ns,ns,ns,ns,ns,ns
+Te,ns,ns,ns,ns,ns,ns,*,ns,ns,ns
+EF50,ns,**,*,**,*,ns,ns,ns,ns,ns
+EIP,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+EEP,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+Tr,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+TB,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+TP,ns,ns,*,*,ns,ns,ns,ns,ns,ns
+Tbody,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+Tc,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+RH,ns,ns,ns,ns,ns,ns,ns,ns,ns,ns
+Rinx,ns,ns,ns,***,ns,*,***,ns,*,ns
